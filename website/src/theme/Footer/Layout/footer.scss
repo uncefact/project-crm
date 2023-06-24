@@ -1,0 +1,36 @@
+.footer {
+  border-top: 1px solid #EDEDED;
+  text-align: center;
+  font-size: 12px;
+
+  &__container {
+    @media screen and (min-width: 996px) {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  &__links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+
+  &__copyright {
+    line-height: 24px;
+  }
+
+  &__link-item {
+    color: #888583;
+
+    &:before {
+      content: "|";
+      padding: 0 3px;
+    }
+
+    &:first-child:before {
+      display: none;
+    }
+  }
+}
