@@ -8,7 +8,7 @@ export default function FooterLayout({style, links, copyright}) {
       className={clsx('footer', {
         'footer--dark': style === 'dark',
       })}>
-      <div className="container container-fluid footer__container">
+      <div className="footer__container">
         {copyright}
         {links}
       </div>
