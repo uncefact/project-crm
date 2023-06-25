@@ -25,6 +25,7 @@
   --ifm-spacing-horizontal: 20px;
 
   --ifm-navbar-padding-vertical: 20px;
+  --ifm-container-width: 1400px;
 }
 
 html {
@@ -41,7 +42,8 @@ html {
   align-items: flex-start;
 }
 
-.navbar__inner {
+.navbar__inner,
+.main-wrapper {
   margin: 0 auto;
   max-width: var(--ifm-container-width);
   padding: 0 var(--ifm-spacing-horizontal);
@@ -180,7 +182,7 @@ aside[class^="theme-doc-sidebar-container"] {
 @media only screen and (min-width: 997px) {
   aside[class^="theme-doc-sidebar-container"] {
     .menu {
-      padding: 12px;
+      padding: 12px 12px 12px 0;
     }
   }
 }
