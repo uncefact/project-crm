@@ -7,7 +7,7 @@ const FeatureList = [
     Svg: require('@site/static/img/crm-producers.svg').default,
     description: (
       <>
-        Lorem Ipsum is simply dummy text of the printing and type setting industry.
+        Participate in global CRM traceability and be able to re-use your domestic ESG claims in export markets.
       </>
     ),
   },
@@ -16,7 +16,7 @@ const FeatureList = [
     Svg: require('@site/static/img/esg-standards-and-certifiers.svg').default,
     description: (
       <>
-        Lorem Ipsum is simply dummy text of the printing and type setting industry.
+        Map your ESG crtieria to a harmonised vocabulary and empower mutual recognition against other standards.
       </>
     ),
   },
@@ -25,7 +25,7 @@ const FeatureList = [
     Svg: require('@site/static/img/esg-traceability-software-platforms.svg').default,
     description: (
       <>
-        Lorem Ipsum is simply dummy text of the printing and type setting industry.
+        Align with interoperability standards and empower your customers to exchange ESG credentials up and down their supply chain.
       </>
     ),
   },
