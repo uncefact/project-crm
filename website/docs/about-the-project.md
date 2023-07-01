@@ -3,46 +3,20 @@ sidebar_position: 1
 slug: /about
 ---
 
-# About the project
+# CRM Sustainability and Resilience
 
-Let's discover **Docusaurus in less than 5 minutes**.
+In line with the [UN sustainability goals](https://sdgs.un.org/goals) and building on the success of the [UNECE Textile & Leather traceability project](https://unece.org/trade/traceability-sustainable-garment-and-footwear), this project seeks to develop a traceability and sustainability framework for critical raw materials (CRM). This project supports the UN focus on extractive industries and builds on the UN/CEFACT role & capabilities to deliver digital standards for sustainable supply chains.
 
-## Getting Started
+The purpose of [this project](https://uncefact.unece.org/display/uncefactpublic/Critical+Minerals+Traceability+and+Sustainability) is to uplift verifiable critical raw materials supply chain resilience and sustainability through digital standards for data and trust. 
 
-Get started by **creating a new site**.
+* Resilient supply chains are designed to avoid risky dependencies and can withstand disruptions. 
+* Sustainable supply chains are designed to minimize environmental impacts and maximise human welfare.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Both goals are met through digitising traceability and transparency at scale. In order to scale from pilots to global scale production volumes, this project focusses on two key challenges
 
-### What you'll need
+* **Interoperability:** There are already hundreds of supply chain traceability platforms on the market. None will dominate the world’s supply chains and so end-to-end traceability will necessarily depend on standards-based interoperability **between** platforms. This project will not create a new platform nor select any preferred platforms. Rather it will define the interoperability standards and implementation test services so that supply chain actors can pick any compliant platform.
+* **Harmonisation:** There are already hundreds of ESG standards and releated criteria as well as a number of emerging regulatory criteria. Most or specific to geographic or industry sectors. This comnplexity imposes challenges for supply chain actors who must understand how their domestic sustainability measures map to the standards or regulatory criteria of their export markets. This project will not define any new ESG standards but rather will focus on mapping between them by developing a harmonised vocabulary of criteria and a legal framework for mutual recognition.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
