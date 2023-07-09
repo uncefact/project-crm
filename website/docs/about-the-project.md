@@ -21,27 +21,27 @@ Both goals are met through digitising traceability and transparency **at scale**
 
 ## Greenwashing
 
-Greenwashing is a term used to describe a false, misleading or untrue action or set of claims made by an organization about the positive impact that a company, product or service has on the environment.
+Greenwashing is a term used to describe a false, misleading or untrue action or set of claims made by an organization about the positive impact that a company, product or service has on the environment or on social welfare.
 
-The evidence from multiple research activities is that greenwashing is already endemic with around 60% of claims being proven to be false or misleading. But there is room for optimism because around 70% of consumers expect higher integroty behaviour and are willing to pay for it. There are two plausible pathways ahead of us.
+The evidence from multiple research activities is that greenwashing is already endemic with around 60% of claims being proven to be false or misleading. But there is room for optimism because around 70% of consumers expect higher integrity behaviour and are willing to pay for it. There are two plausible pathways ahead of us.
 
 ![race to the top or bottom](files/RaceToTopBottom.png)
 
-To win the race to the top, fake claims need to be hard to make. The best way to acheive that is to make supply chains traceable and transparent **so that unsustainable proactices have nowhere to hide**. But, to have any impact, the traceability and transparency measures must be implemented at scale. The worlds supply chains must move beyond low volume traceability pilots and "walled garden" proprietary solutions to the point where verifiable traceability and transparency information is available to motivate consumers for the majority or products on the market.  
+To win the race to the top, fake claims need to be hard to make. The best way to acheive that is to make supply chains traceable and transparent **so that unsustainable practices have nowhere to hide**. But, to have any impact, the traceability and transparency measures must be implemented at scale. The worlds supply chains must move beyond low volume traceability pilots and "walled garden" proprietary solutions to the point where verifiable traceability and transparency information is available to motivate consumers for the majority of products on the market.  
 
-Therefore, scalability and associated evidence of high volume production implementation is the key success measure of this project. We will be able to claim some moderate level of success if, after the pilot implementation phase, we have evidence that;
+Therefore, scalability and associated evidence of high volume production implementation is the key success measure for this project. We will be able to claim some moderate level of success if, after the pilot implementation phase, we have evidence that;
 
-* At least 50 different CRM supply chain actors
-* Unsing at least 5 different software platforms
+* at least 50 different CRM supply chain actors
+* using at least 5 different software platforms
 * across at least 5 different value chains
 * spanning at least 5 different countries
 * can reveal transparent supply chain evidence for at least 10,000 consignments. 
 
-This is still a tiny fraction of actual global trade volumes but is sufficient to prove that the framework is scalable. 
+This is still a tiny fraction of actual global trade volumes but is probably sufficient to prove that the framework is scalable. 
 
 ## Participation
 
-THis project will be of interest to primary producers, manufacturers, regulators, ESG standards authorities, certifiers, and ESG/traceability software solutoin vendors.
+THis project will be of interest to primary producers, manufacturers, regulators, ESG standards authorities, certifiers, and ESG/traceability software solution vendors.
 
 Under the [UN/CEFACT Open Development Process (ODP)](https://unece.org/DAM/cefact/cf_plenary/2016_plenary/CF_2016_017E_ODP.pdf), particiption in this project is open to all. There are three types of particiption:
 
@@ -53,8 +53,8 @@ Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to pa
 
 ## Reference material
 
-* [UN White paper on verifiable credentials for cross border trade](files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solutoin for highly scalable sustainability data excahnge.
-* [This CRM project introductory kisk off presentaiton](files/KickOffPresentation.pptx)
+* [UN White paper on verifiable credentials for cross border trade](files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data excahnge.
+* [This CRM project introductory kick off presentaiton](files/KickOffPresentation.pptx)
 
 
 
