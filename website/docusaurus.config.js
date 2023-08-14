@@ -71,7 +71,7 @@ const config = {
         },
         items: [
           {to: '/docs/about', label: 'About the project', position: 'right'},
-          {to: '/docs/deliverables', label: 'Deliverables', position: 'right'},
+          {to: '/docs/deliverables', label: 'Delivery', position: 'right'},
           {to: '/docs/standards', label: 'Standards', position: 'right'},
           {to: '/docs/vocabulary', label: 'Vocabulary', position: 'right'},
           {to: '/docs/pilots', label: 'Pilots', position: 'right'},

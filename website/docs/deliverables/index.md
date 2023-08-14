@@ -1,9 +1,9 @@
 ---
-title: Deliverables
+title: Project Delivery
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-# Deliverables
+# Project Delivery

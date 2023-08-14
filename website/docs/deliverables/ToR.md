@@ -2,12 +2,6 @@
 title: Terms of Reference
 ---
 
-import Disclaimer from '../\_disclaimer.mdx';
-
-<Disclaimer />
-
-# Terms of Reference
-
 ## Project Purpose
 
 The purpose of this project is to create for the trusted exchange of supply chain sustainability information between traceability platforms in a scalable, high integrity, low cost, and privacy-preserving manner.  
@@ -55,11 +49,11 @@ Contributor activities have been  scoped to ensure project deliverables add valu
 ### Legal/ethical considerations
 
 * Focus: To understand legal and governance considerations related to supply chains, including audit/verification processes are connected and recognized across multiple jurisdictions. Scope will include 
-** Legal enforcement of false claims
-** Mutual recognition of laws along the supply chain
+ * Legal enforcement of false claims
+ * Mutual recognition of laws along the supply chain
 * Expertise required: Law professionals, especially those focusing on conflict of law on free trade agreements. Professionals with experience in privacy law, information sharing agreement law, and security of digital information regulatory compliance. 
 
-###Implementation 
+### Implementation 
 
 * Focus: As standards are developed, the implementation pilots will test them along various supply chains (copper, graphite,  lithium, cobalt).
 * Expertise required;  Requires technical expertise to apply and integrate specific supply chain standards developed throughout the project into solutions/technology systems. 
@@ -104,6 +98,7 @@ This project will deliver a suite of materials that support government policy ma
 * Transparency-creating: Deliverables are assessed on their ability to further transparency and trust along supply chains. 
 
 ## Criteria for assessing implementation.
+
 The ultimate goal of this project is to facilitate the scalable uptake of digital traceability & transparency measures across the international supply chain. Delivery of standards is only a necessary milestone towards real production implementations.  Therefore, this project will only be considered successful when: 
 
 * at least 50 different CRM supply chain actors
@@ -118,12 +113,16 @@ This is still a tiny fraction of actual global trade volumes but is deemed suffi
 
 Deliverables | Expected timeline 
 -- | --
-Project Inception| 1 month
-Call for participation | 1 month
-Requirements gathering | 1 month
-Deliverable draft development and refinement, informed by ongoing implementation testing: UN Policy recommendation, Business requirements specification, Machine-readable sustainability vocabulary, Credential schema, Implementation guide, Test suite | 18 months
-Public Draft Review| 2 months
-Project Exit| 1 month
+Project Inception| month 1
+Call for participation | month 1
+Business requirements specifications | month 3 - 6
+sustainability vocabulary, Credential schema | months 4 - 8 
+Implementation guide, Test suite | months 6 - 9
+Pilots - engagement | months 2 - 6
+Pilots - implementation | months 6 - 18
+UN Policy recommendation | due month 12
+Public Draft Review| month 16 - 17
+Project Exit| month 18
 
 
 
