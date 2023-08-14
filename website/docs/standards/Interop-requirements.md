@@ -1,5 +1,5 @@
 ---
-title: Interoperability Requirements Specification
+title: Interoperability Requirements
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';

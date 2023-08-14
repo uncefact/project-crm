@@ -76,16 +76,11 @@ Sub-groups will meet as needed in order to contribute meaningfully towards the d
 
 ## Deliverables
 
-This project will deliver a suite of materials that support government policy makers, CRM industry actors, and traceability technology providers.  
+This project will deliver a suite of materials that support government policy makers, CRM industry actors, and traceability technology providers. The blue colured deliverables are expected to be re-usable across other supply chain domains such as garmets & footwear and agri-food. The yellow coloured deliverables are specific to the critical raw materials domain.
 
-* Call for Participation: A stakeholder mapping and engagement strategy to support a call for participation that will attract strong participation.
-* UN Policy Recommendation: A guidance document for national policy makers and peak bodies that provides an overview of business drivers, high level business requirements, and implementation guidance for a CRM traceability framework. 
-* Business Requirements Specification: Documenting the detailed interoperability requirements for high trust critical minerals supply-chain traceability & transparency at scale. Including credential types, trust architecture and mechanisms for physical-digital links.
-* Web Vocabulary: for critical raw materials sustainability claims that builds on existing work from the International Trade Centre (https://standardsmap.org/en/identify) and other relevant sources.
-* Credential Schema: to support each certificate type identified during the requirements gathering. These define the interoperability boundary between participating supply chain platforms.
-* Implementation Guide: to support organizations and software platforms that will build compliance to the interoperability standards.
-* Test Suite: that can be used by implementers to verify conformance with the credential standards.  
-* Any adjustments needed to the Buy-Ship-Pay model.
+![deliverables](deliverables-map.png)
+
+Each deliverable is described on this website.
 
 ## Criteria for assessing deliverables. 
 

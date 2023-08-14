@@ -1,5 +1,5 @@
 ---
-title: Sustainability ctieria mapping
+title: Vocabulary Requirements
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
