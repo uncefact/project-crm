@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 ---
 
-# UN/CEFACT CRM Project FAQ
+# Frequently Asked Questions
 
 ## What is the UN/CEFACT Critical Raw Materials Traceability and Sustainability Project?  
 Critical raw material (CRM) producers provide essential materials like lithium, cobalt, copper and graphite to countries across the world. CRM supply chains are often long and complex, involving multiple organizations and crossing several international borders as materials move from raw material extraction to finished product.   
