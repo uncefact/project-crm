@@ -14,7 +14,7 @@ const config = {
   url: 'https://uncefact.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/project-crm/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -40,6 +40,8 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/docs',
+          editUrl: ({versionDocsDirPath, docPath}) =>
+            `https://github.com/uncefact/project-crm/edit/main/website/${versionDocsDirPath}/${docPath}`,
         },
         blog: false,
         theme: {
