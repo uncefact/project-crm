@@ -60,19 +60,19 @@ Contributor activities have been  scoped to ensure project deliverables add valu
 
 ## Working groups
 The Contributors working group consists of members who indicated their willingness to participate and have sufficient expertise. This working group will meet on a bi-weekly basis. 
-Each area of focus will have an associated sub-working group with a lead. The leads will be selected from those who have indicated their interest using the following criteria:
+Each area of focus will have an associated sub-working group, or workstream, with a lead. The leads will be selected from those who have indicated their interest using the following criteria:
 
 * Capability (must have sufficient domain knowledge to do the job) 
 * Capacity (must be able to allocate sufficient time to do the job) and 
 * Neutrality (must be acceptable as independent / non-competitive to all team members) 
 
-Sub-groups will meet as needed in order to contribute meaningfully towards the development of draft deliverables. Sub-working group leads will report on their progress to the Contributors working group at the bi-weekly meeting.  Sub-groups include:
-1. Traceability interoperability - Zach
-2. CRM Sustainability claims mapping - Kim
-3. Implementation Pilot - Lithium supply chain originating in Australia - Prok
+Workstreams will meet as needed in order to contribute meaningfully towards the development of draft deliverables. Workstream leads will report on their progress to the Contributors working group at the bi-weekly meeting.  Workstreams (sub-groups) include:
+1. Traceability Interoperability - Zachary Zeus
+2. CRM Sustainability Claims Mapping - Kim Swanzey
+3. Implementation Pilot - Lithium supply chain originating in Australia - Prokopiy (Prok) Vasilyev
 4. Implementation Pilot - Copper supply chain originating in Canada - TBD
 5. Implementation Pilot - Cobalt supply chain originating in DRC - TBD
-6. Legal analysis - will be required for all sub-groups - Jeanne
+6. Legal Analysis - Required for all workstreams - Dr. Jeanne Huang 
 
 ## Deliverables
 
