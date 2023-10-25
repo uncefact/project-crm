@@ -13,8 +13,8 @@ The purpose of this project is to create for the trusted exchange of supply chai
 
 ## Principles 
 
-* UN/CEFACT Open Development Process is consensus driven, collaborative, open and transparent
-* Aligned to UN SDGs (United Nations Sustainable Development Goals)
+* UN/CEFACT Open Development Process is consensus driven, collaborative, open and transparent.
+* Aligned to UN SDGs (United Nations Sustainable Development Goals).
 * The project will define and deliver practical, useful ways to add value. We will build real useable tools that facilitate global implementations. 
 * The project will build upon related work already completed and underway by UN/CEFACT and other organizations and initiatives.
 
@@ -56,7 +56,7 @@ Contributor activities have been  scoped to ensure project deliverables add valu
 ### Implementation 
 
 * Focus: As standards are developed, the implementation pilots will test them along various supply chains (copper, graphite,  lithium, cobalt).
-* Expertise required;  Requires technical expertise to apply and integrate specific supply chain standards developed throughout the project into solutions/technology systems. 
+* Expertise required: Requires technical expertise to apply and integrate specific supply chain standards developed throughout the project into solutions/technology systems.
 
 ## Working groups
 The Contributors working group consists of members who indicated their willingness to participate and have sufficient expertise. This working group will meet on a bi-weekly basis. 
@@ -68,7 +68,7 @@ Each area of focus will have an associated sub-working group with a lead. The le
 
 Sub-groups will meet as needed in order to contribute meaningfully towards the development of draft deliverables. Sub-working group leads will report on their progress to the Contributors working group at the bi-weekly meeting.  Sub-groups include:
 1. Traceability interoperability - Zach
-2. CRM Sustainability claims mapping - TBD
+2. CRM Sustainability claims mapping - Kim
 3. Implementation Pilot - Lithium supply chain originating in Australia - Prok
 4. Implementation Pilot - Copper supply chain originating in Canada - TBD
 5. Implementation Pilot - Cobalt supply chain originating in DRC - TBD
