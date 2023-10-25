@@ -19,5 +19,12 @@ title: Project Management
     * Lithium (AUS) Pilot Implementation: TBA
     * Copper (CAN) Pilot Implementation: TBA
     * Cobalt (DRC) Pilot Implementation: TBA
-## Test 
-* [Test](https://drive.google.com/file/d/1xdodx1dOeETlsZtQCcj5IZ8z5yVWZHgz/view?usp=sharing)
+
+
+## Meeting Recording Links 
+
+* [2023-07-17 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1xdodx1dOeETlsZtQCcj5IZ8z5yVWZHgz/view?usp=sharing)
+* [2023-07-31 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1YoQZF3mouB1BAxVdW97ha7mWea46npDf/view?usp=sharing)
+* [2023-08-14 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1KbWngdgQxGTZGZgtEhlEHXMf_CPmIKNQ/view?usp=sharing)
+* [2023-09-12 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1cEf3mMm1PwtABby3xoLCpAqmPHFTsFNw/view?usp=sharing)
+* [2023-10-05 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1rvy9YaNn7Vv_L8z_zjbcrABRIykmSz5Y/view?usp=sharing)
