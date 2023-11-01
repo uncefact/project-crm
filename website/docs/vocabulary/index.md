@@ -1,5 +1,5 @@
 ---
-title: Core Sustainability Vocabulary Mapping
+title: Sustainability Vocabulary Mapping
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
