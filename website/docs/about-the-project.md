@@ -17,7 +17,7 @@ The purpose of [this project](https://uncefact.unece.org/display/uncefactpublic/
 Both goals are met through digitising traceability and transparency **at scale**. In order to scale from pilots to global scale production volumes, this project focusses on two key challenges
 
 * **Interoperability:** There are different types of supply chain traceability platforms on the market. Since they will not lead the world’s supply chains, end-to-end traceability will depend on standards-based interoperability **between** platforms. This project will define interoperability standards and implementation test services in which supply chain actors can pick any compliant platform. 
-* **Harmonisation:** There are already hundreds of ESG standards or related criteria as well as several emerging regulatory criteria specific to geographic or industrial sectors. This complexity imposes challenges for supply chain actors who must understand how their domestic sustainability measures map to the standards or regulatory criteria of their export markets. This project will focus on the **mapping** of current ESG standards by developing a harmonised vocabulary of criteria and a legal framework for mutual recognition.
+* **Core Vocabulary:** There are already hundreds of ESG standards or related criteria as well as several emerging regulatory criteria specific to geographic or industrial sectors. This complexity imposes challenges for supply chain actors who must understand how their domestic sustainability measures map to the standards or regulatory criteria of their export markets. This project will focus on the **mapping** of current ESG standards by developing a core vocabulary of criteria and a legal framework for mutual recognition.
 
 ## Greenwashing
 
