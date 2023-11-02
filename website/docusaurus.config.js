@@ -40,6 +40,8 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/docs',
+          editUrl: ({versionDocsDirPath, docPath}) =>
+            `https://github.com/uncefact/project-crm/edit/main/website/${versionDocsDirPath}/${docPath}`,
         },
         blog: false,
         theme: {
