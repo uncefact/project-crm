@@ -108,16 +108,14 @@ This is still a tiny fraction of actual global trade volumes but is deemed suffi
 
 Deliverables | Expected timeline 
 -- | --
-Project Inception| month 1
-Call for participation | month 1
-Business requirements specifications | month 3 - 6
-sustainability vocabulary, Credential schema | months 4 - 8 
-Implementation guide, Test suite | months 6 - 9
-Pilots - engagement | months 2 - 6
-Pilots - implementation | months 6 - 18
-UN Policy recommendation | due month 12
-Public Draft Review| month 16 - 17
-Project Exit| month 18
+| May 2023    | Project Inception     |
+| June 2023 | Call for Participation  |
+| July 2023 - January 2024 | Business Requirements Research and Specification  |
+| November 2023 - February 2024 | Development of the following deliverables: Draft Sustainability Vocabulary and Credential Schema, Test Suite, and Implementation Guide; Pilots – Engagement to inform the above deliverables  |
+| March 2024 - September 2024 | Pilots - Implementation of vocabulary, schema, and test suite  |
+| July 2024 | UN Policy Recommendation  |
+| October - November 2024 | Public Draft Review  |
+| December 2024 | Project Exit  |
 
 
 
