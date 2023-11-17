@@ -24,12 +24,12 @@ In line with the UN sustainability goals this project proposal seeks to develop 
 The purpose of this project is to uplift verifiable critical raw materials supply chain resilience and sustainability through digital standards for data and trust. 
 
 * Resilient supply chains are designed to avoid risky dependencies and can withstand disruptions. 
-* Sustainable supply chains are designed to minimize environmental impacts and maximise human welfare.
+* Sustainable supply chains are designed to minimize environmental impacts and maximize human welfare.
 
 Both goals are met through traceability and transparency measures that this project will support through standardization.  
 
 * There are already many supply chain traceability platforms on the market. None will dominate the world’s supply chains and so must improve their interoperability so that supply chains can be traced across multiple independent platforms. 
-* There are also many ESG standards and regulations across different industry sectors and geographic jurisdictions. There is significant overlap between the ESG criteria from these standards and so the ability to map ESG claims made against one standard to the critieria defined by another is a key challenge that this project will address.
+* There are also many ESG standards and regulations across different industry sectors and geographic jurisdictions. There is significant overlap between the ESG criteria from these standards and so the ability to map ESG claims made against one standard to the criteria defined by another is a key challenge that this project will address.
 
 This is the primary purpose of this project – namely to focus on the exchange of supply chain information between platforms and the alignment of the semantics of ESG claims.
 
