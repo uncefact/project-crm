@@ -48,7 +48,7 @@ This project will be of interest to primary producers, manufacturers, regulators
 Under the [UN/CEFACT Open Development Process (ODP)](https://unece.org/DAM/cefact/cf_plenary/2016_plenary/CF_2016_017E_ODP.pdf), participation in this project is open to all. There are three types of participation:
 
 * **Observers:** Anyone who is interested in following the activities and outcomes from this project but will not be actively contributing to the standards development work nor participating in pilot implementations. Observers may join the conversation on our Slack channel and/or subscribe to our monthly project newsletter.
-* **Contributors** Anyone who is able to provide the skills and commitment to contribute to standards development. Participants in this category should either have deep business domain knowledge in CRM supply chain sustainability or technical skills in decentralized architectures and data modelling. As a contributor, you must conform to  [UN/CEFACT IPR policy](https://unece.org/DAM/cefact/cf_plenary/plenary12/ECE_TRADE_C_CEFACT_2010_20_Rev2E_UpdatedIPRpolicy.pdf) and must [join UN/CEFACT](https://uncefact.unece.org/display/uncefactpublic/UNCEFACT+Expert+Registration) as a registered expert. Note that this will require the approval of your country's head of delegation.
+* **Contributors** Anyone who is able to provide the skills and commitment to contribute to standards development. Participants in this category should either have deep business domain knowledge in CRM supply chain sustainability or technical skills in decentralized architectures and data modeling. As a contributor, you must conform to  [UN/CEFACT IPR policy](https://unece.org/DAM/cefact/cf_plenary/plenary12/ECE_TRADE_C_CEFACT_2010_20_Rev2E_UpdatedIPRpolicy.pdf) and must [join UN/CEFACT](https://uncefact.unece.org/display/uncefactpublic/UNCEFACT+Expert+Registration) as a registered expert. Note that this will require the approval of your country's head of delegation.
 * **Implementers**: Any CRM supply chain actor (e.g. producer, manufacturer, certifier, software vendor) that wishes to participate in early pilots and/or certify their software against the standards defined by this project.
 
 Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to participate as a contributor or implementer.
@@ -57,9 +57,9 @@ Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to pa
 
 * [UN White paper on verifiable credentials for cross border trade](files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
 * [CRM Project Presentation](https://drive.google.com/file/d/1DTwurqPX9gzoMZ-dFUCpA6nMnJML0DN_/view?usp=sharing)
----
+
 #  Frequently Asked Questions
----
+
 ### 1. What are critical raw materials (CRMs)?  
 Critical minerals are metals and non-metals, such as cobalt or lithium, that are considered essential to the economy and whose supply may be at risk due to geological scarcity, geopolitical issues, trade policy or other factors.  
 
