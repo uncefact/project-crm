@@ -10,7 +10,7 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 ## Key Focus
 
-This pilot focus is crotical mineral supply chain sustainability and environmental credentials verification. 
+This pilot focus is critical mineral supply chain sustainability and environmental credentials verification. 
 
 ## Stakeholders
 
