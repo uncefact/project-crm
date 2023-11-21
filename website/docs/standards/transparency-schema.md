@@ -6,4 +6,4 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Certificate, sensor measurement, equipment schema links go here
+Certificate, sensor measurement, and equipment schema links go here.
