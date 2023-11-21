@@ -10,7 +10,7 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 ## Key Focus
 
-This pilot focus is crotical mineral supply chain social & governance criteria (human welfare) and peer to peer trust models. 
+This pilot focus is critical mineral supply chain social & governance criteria (human welfare) and peer-to-peer trust models. 
 
 ## Stakeholders
 
