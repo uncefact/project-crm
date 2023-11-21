@@ -12,11 +12,11 @@ Some words about sustainability & resilience and the need for digital traceabili
 
 ## Document Purpose
 
-To provide the context and guide-rails for the pilot implementations in the CRM domain.
+To provide the context and guidelines for the pilot implementations in the CRM domain.
 
 ### Audience 
 
-The audience for this document include
+The audience for this document includes
 
 Role | Rationale
 --|--
@@ -32,7 +32,7 @@ TBA
 
 ## Project Context
 
-Some words about how this project fit together with and complements other UN work
+Some words about how this project fits together with and complements other UN work
 
 * UN SDGs, criteria, indicators & tools. They are national level, our project is entity & product level.
 * Other UNECE traceability & transparency domains (textile & leather, agro-food).  We build on common foundations.  
@@ -46,14 +46,14 @@ Some words about key design principles.  For example,
 * simple and implementable always wins over expansive & complex.
 * open and free is a fundamental requirement.
 * collaboratively developed encourages buy-in
-* decentralised over centralised will always be more scalable.
+* decentralized over centralized will always be more scalable.
 
 ## Design Challenges
 
-Some words about the key challenges that scalable digital traceability & transparency faces.  The design must solve these challenges.  For example
+Some words about the key challenges that scalable digital traceability & transparency face.  The design must solve these challenges.  For example
 * greenwashing
-* plethora of platforms – so we must focus on in interoperability, not picking winners.
-* plethora of standards – so we must focus on mapping between them to maximise reuse.
+* plethora of platforms – so we must focus on interoperability, not picking winners.
+* plethora of standards – so we must focus on the mapping between them to maximize reuse.
 
 
 ## Scope 
@@ -115,15 +115,15 @@ Reference the generic traceability & transparency models and specify any extensi
 
 ### Vocabulary
 
-Reference the generic ESG vocabulary and specify CRM specific extensions.
+Reference the generic ESG vocabulary and specify CRM-specific extensions.
 
 ### Identifier Schemes
 
-Reference generic identifier schemes and specific any industry specific requirements.
+Reference generic identifier schemes and specific any industry-specific requirements.
 
 ### Trust Anchors
 
-Identify Specific trust anchors for CRM domain
+Identify Specific trust anchors for the CRM domain
  
 ## Sustainability Requirements
 
@@ -136,7 +136,7 @@ List standards and regulations relevant to the CRM sector. Including type catego
 
 ### Vocabulary Mapping
 
-Requirements for mapping of criteria between standards and to UN vocabulary.
+Requirements for mapping of criteria between standards and UN vocabulary.
 
 
 ## Legal and Ethical Constraints
