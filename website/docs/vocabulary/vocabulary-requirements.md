@@ -7,11 +7,11 @@ import Disclaimer from '../\_disclaimer.mdx';
 <Disclaimer />
 
 ## Introduction
-Some words about the plethora of standards & regulations and the need for some shared understanding and mutual recognition, particularly in the cross border context. 
+Some words about the plethora of standards & regulations and the need for some shared understanding and mutual recognition, particularly in the cross-border context. 
 
 ### Document Purpose
 
-To provide the context and guide-rails for the deliverables including sustainability vocabularies and legal / ethical guidelines.
+To provide the context and guidelines for the deliverables including sustainability vocabularies and legal/ethical guidelines.
 
 ### Audience 
 
@@ -35,19 +35,19 @@ This document is guided by the following principles
 1. Simple and implementable always wins over expansive & complex.
 2. Open and free is a fundamental requirement.
 3. Collaborative development encourages buy-in
-4. We cant change existing standards & regulations, only map between them.
+4. We can't change existing standards & regulations, only map between them.
 
 ### Design Challenges
 
-Implementating end-to-end supply chain transparency at scale faces a number of challenges. 
+Implementing end-to-end supply chain transparency at scale faces a number of challenges. 
 
 Challenge | Our approach 
 -- | --
 A plethora of standards exist already | We must focus on mapping between standards, not picking winners.
-Regulations are emerging nearly as fast | We must focus on mutual recognition arrangements so that compliance in an exporting jusrisdication can be re-used by importing jurisdictions.
-Complexity is overwhelming | Consumers and buyers cant be expected to understand every criteria of every standard or regulation and so we must focus on simple aggregated scoring 
-Involuntary non-compliance is likely to be high| We must find simple legal toolkits to support supply chain actors and regulators in managing involutary non-compliance.
-Sustainment Cost | Manually managing mapping between thousands of standards & criteria is likely to be un-sustainable so we should look to AI for help.
+Regulations are emerging nearly as fast | We must focus on mutual recognition arrangements so that compliance in an exporting jurisdiction can be re-used by importing jurisdictions.
+Complexity is overwhelming | Consumers and buyers can't be expected to understand every criterion of every standard or regulation so we must focus on simple aggregated scoring 
+Involuntary non-compliance is likely to be high| We must find simple legal toolkits to support supply chain actors and regulators in managing involuntary non-compliance.
+Sustainment Cost | Manually managing between thousands of standards & criteria is likely to be unsustainable so we should look to AI for help.
 
 
 ### Scope 
@@ -79,7 +79,7 @@ Assessment of various standards and mapping to UN core
 
 ### Vocabulary Governance
 
-Mechanisms for long term maintenance of the core vocabulary and tools for ongoing mapping of ESG standards and regulatory frameworks.  
+Mechanisms for long-term maintenance of the core vocabulary and tools for ongoing mapping of ESG standards and regulatory frameworks.  
 
 ### Criteria Mapping
 
@@ -95,10 +95,10 @@ Some words about the governance patterns of various standards (who, why, etc).
 
 ### Types of Audit & Verification
 
-Some words about different types of verification and trust levels attached to each.
+Some words about different types of verification and trust levels are attached to each.
 
-* Self-assessment / peer group 
-* On site instrumentation & measurement
+* Self-assessment/peer group 
+* On-site instrumentation & measurement
 * Third party audit & certification 
 * Funding models (who pays for audits)
 * Transparency models (audit and/or measurements are public/private)
@@ -107,8 +107,8 @@ Some words about different types of verification and trust levels attached to ea
 
 Some words about legal considerations of mapping criteria
 
-* Self-assessed mapping and liabilitiy
-* Third party assessed mapping (who’s liable if wrong?)
+* Self-assessed mapping and liability
+* Third-party assessed mapping (who’s liable if wrong?)
 * Formal one-way recognition
 * Formal mutual recognition
 
