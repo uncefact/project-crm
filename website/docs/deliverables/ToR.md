@@ -78,7 +78,7 @@ Workstreams will meet as needed in order to contribute meaningfully towards the 
 
 This project will deliver a suite of materials that support government policymakers, CRM industry actors, and traceability technology providers. The blue-coloured deliverables are expected to be re-usable across other supply chain domains such as garments & footwear and agri-food. The yellow-coloured deliverables are specific to the critical raw materials domain.
 
-![deliverables](website/docs/deliverables/update_deliverable_map.png)
+![deliverables](update_deliverable_map.png)
 
 Each deliverable is described on this website.
 
