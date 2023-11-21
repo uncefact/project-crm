@@ -10,7 +10,7 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 ## Key Focus
 
-This pilot focus is crotical mineral supply chain resilience and guarantee of origin / prevenance verification. 
+This pilot focus is critical mineral supply chain resilience and guarantee of origin/prevenance verification. 
 
 ## Stakeholders
 
