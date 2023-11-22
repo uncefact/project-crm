@@ -96,18 +96,16 @@ Building on the success of the Textile and Leather Traceability project, the CRM
 __6. What is the timeline for the CRM Project?__  
 The CRM project has been divided into several phases of work:  
 
-
-| Timing  | Project Stage |
-| -------- | -------- | 
-
-| May 2023    | Project Inception     |
-| June 2023 | Call for Participation  |
-| July 2023 - January 2024 | Business Requirements Research and Specification  |
-| November 2023 - February 2024 | Development of the following deliverables: Draft Sustainability Vocabulary and Credential Schema, Test Suite, and Implementation Guide; Engagement with stakeholders to inform the above deliverables  |
-| March 2024 - September 2024 | Pilots - Implementation and incorporation of feedback from stakeholders to refine vocabulary, schema, and test suite  |
-| July 2024 | UN Policy Recommendation  |
-| October - November 2024 | Public Draft Review  |
-| December 2024 | Project Exit |
+| Timing  | Project Stage 
+| -------- | --------  
+| May 2023    | Project Inception     
+| June 2023 | Call for Participation  
+| July 2023 - January 2024 | Business Requirements Research and Specification  
+| November 2023 - February 2024 | Development of the following deliverables: Draft Sustainability Vocabulary and Credential Schema, Test Suite, and Implementation Guide; Engagement with stakeholders to inform the above deliverables  
+| March 2024 - September 2024 | Pilots - Implementation and incorporation of feedback from stakeholders to refine vocabulary, schema, and test suite  
+| July 2024 | UN Policy Recommendation  
+| October - November 2024 | Public Draft Review  
+| December 2024 | Project Exit 
 
 __7. How is the CRM Project aligning with existing initiatives?__
 The CRM project embraces all environmental, social, and governance (ESG) platforms, standards, and regulations. Our environmental scan illustrates the broad range of platforms, standards, and regulations that inform the project work. 
