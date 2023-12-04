@@ -70,8 +70,8 @@ Workstreams will meet as needed in order to contribute meaningfully towards the 
 1. Traceability Interoperability - Zachary Zeus
 2. CRM Sustainability Claims Mapping - Kim Swanzey
 3. Implementation Pilot - Lithium supply chain originating in Australia - Prokopiy (Prok) Vasilyev
-4. Implementation Pilot - Copper supply chain originating in Canada - TBD
-5. Implementation Pilot - Cobalt supply chain originating in DRC - TBD
+4. Implementation Pilot - Copper supply chain originating in Canada - Nancy Norris
+5. Implementation Pilot - Cobalt supply chain originating in DRC - Golda Velez
 6. Legal Analysis - Required for all workstreams - Dr. Jeanne Huang 
 
 ## Deliverables
