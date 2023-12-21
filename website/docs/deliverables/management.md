@@ -30,3 +30,4 @@ title: Project Management
 * [2023-09-12 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1cEf3mMm1PwtABby3xoLCpAqmPHFTsFNw/view?usp=sharing)
 * [2023-10-05 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1rvy9YaNn7Vv_L8z_zjbcrABRIykmSz5Y/view?usp=sharing)
 * [2023-11-02 UN/CEFACT CRM Project Contributors' Meeting](https://drive.google.com/file/d/1930zsJ_pRxHhpDSXdo-d8d7UhOGioG4y/view?usp=sharing)
+* [2023-12-12 UN/CEFACT CRM Project All Members Year-End Meeting](https://drive.google.com/file/d/1I7IJX8Uef9n96USGrnYEG-jpS4ql0IkL/view?usp=sharing)
