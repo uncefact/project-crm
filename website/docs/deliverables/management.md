@@ -7,8 +7,7 @@ title: Project Management
 
 * [Github Issues](https://github.com/uncefact/project-crm/issues)
 * [Slack Channel](https://uncefact.slack.com/archives/C05AV647QKC)
-* [Google Docs](https://drive.google.com/drive/folders/1Kt7VM7z8h9JTSFU7IB4N9uHQm52khQ9f)
-
+* [Google Docs](https://drive.google.com/drive/folders/1tasGMYIGns8ubN8FYds3F0bOi3OA1UO8)
 
 ## Call Schedule  
 
