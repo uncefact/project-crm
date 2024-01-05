@@ -56,8 +56,7 @@ Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to pa
 ## Reference material
 
 * [UN White paper on verifiable credentials for cross border trade](files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
-* [Year-End CRM Project Presentation](https://drive.google.com/file/d/1ZISd54hlObE8HBylw_2V3UMeW5nvv4LW/view?usp=drive_link)
-
+* [All Members Year-End CRM Project Presentation](https://drive.google.com/file/d/1vEUI12fLFdgotVWnglcSYOrWxkqamDeD/view?usp=sharing)
 ## Frequently Asked Questions
 
 __1. What are critical raw materials (CRMs)?__ 
