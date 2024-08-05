@@ -55,7 +55,7 @@ Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to pa
 
 ## Reference material
 
-* [UN White paper on verifiable credentials for cross border trade](files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
+* [UN White paper on verifiable credentials for cross border trade](../files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
 * [All Members Year-End CRM Project Presentation](https://drive.google.com/file/d/1vEUI12fLFdgotVWnglcSYOrWxkqamDeD/view?usp=sharing)
 
 
