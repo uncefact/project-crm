@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Industry Processes
+title: About Critical Raw Materials
 ---
 
 Boundary is mining to refining.  Downstream processes are separate

@@ -1,11 +1,10 @@
 ---
 sidebar_position: 3
-title: A UNTP Extension
+title: Porpose and Overview
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Words and diagram about CRM as a UNTP extension
 

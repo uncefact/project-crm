@@ -1,6 +1,6 @@
 ---
-sidebar_position: 5
-title: Stakeholders
+sidebar_position: 10
+title: Value for Participants and Stakeholders
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Business Case Templates
+title: Business Case for Implementers
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';

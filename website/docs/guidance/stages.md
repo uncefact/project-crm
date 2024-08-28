@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: For Industry
+title: Stages of Implementation
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';

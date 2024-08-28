@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /about
+title: About this project
 ---
 
 # About this project
