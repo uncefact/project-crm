@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Porpose and Overview
+title: Purpose and Overview
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
