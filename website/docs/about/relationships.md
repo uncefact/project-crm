@@ -11,7 +11,7 @@ UNTP-CRM focuses primarily on the publishing and linking of up- and midstream su
 
 Although the supply chain structure for specific CRM commodities may vary, the following diagram depicts a general mineral or metal type CRM supply chain including process stages, operator, and output product. This also shows the relationship between UNTP-CRM and downstream DPP initiatives. 
 
-**Insert Diagram 3**
+![Diagram](../files/D3Relationships.png)
 
 This diagram was created by CIRPASS to show the relationship between the UNTP and EU DPP efforts.
 
