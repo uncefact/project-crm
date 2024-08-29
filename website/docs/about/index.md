@@ -5,58 +5,27 @@ title: About this project
 
 # About this project
 
-## Critical raw materials sustainability & resilience
+## Purpose & Overview
 
-In line with the [UN sustainability goals](https://sdgs.un.org/goals) and building on the success of the [UNECE Textile & Leather traceability project](https://unece.org/trade/traceability-sustainable-garment-and-footwear), this project seeks to develop a traceability and sustainability framework for critical raw materials (CRM). This project supports the UN focus on extractive industries and builds on the UN/CEFACT role & capabilities to deliver digital standards for sustainable supply chains.
+In line with the [United Nations (UN) Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs) and building on the success of the [UNECE Textile & Leather traceability project](https://unece.org/trade/traceability-sustainable-garment-and-footwear), [this project](https://uncefact.unece.org/display/uncefactpublic/Critical+Minerals+Traceability+and+Sustainability) **seeks to empower the Critical Raw Material (CRM) industry with practical, low cost tools for digital data exchange to achieve product differentiation, maximize the value of existing permitting and ESG compliance efforts, counter greenwashing, and support a more sustainable global economy.** This project supports the UN focus on extractive industries and leverages the [UN Center for Trade Facilitation and Electronic Business'](https://unece.org/trade/uncefact) (UN/CEFACT) role and capabilities to deliver digital standards for sustainable supply chains.
 
-The purpose of [this project](https://uncefact.unece.org/display/uncefactpublic/Critical+Minerals+Traceability+and+Sustainability) is to combat greenwashing and uplift verifiable critical raw materials supply chain sustainability and resilience.
+The project is developing a standardized methodology for interoperable supply chain data exchange by adapting the [United Nations Transparency Protocol (UNTP)](https://uncefact.github.io/spec-untp/docs/extensions/ExtensionsMethodology) to the specific needs of the CRM industry. The draft standard, called UNTP-CRM, is based on a simple pattern of data sharing, in which holders of up-and midstream CRM supply chain data (miners, smelters, processors, manufacturers etc.) can publish and link information about shipments of their goods in a manner that can be discovered and understood by interested parties, such as customers, border authorities, and regulators. [Trust anchors](https://uncefact.github.io/project-crm/docs/register/Anchors), such as performance certifiers and governments, can publish related sustainability certificates and permits that can be digitally linked to the claims being made about shipments of goods, increasing the legitimacy of those claims.  
 
-* **Sustainable** supply chains are designed to minimize environmental impacts and maximize human welfare.
-* **Resilient** supply chains are designed to avoid risky dependencies and can withstand disruptions. 
+The use of advanced digital technology, called verifiable credentials, ensures that all data is verifiable, protected, and accessible only to parties with permission granted by the original data owner. Using the [Technical Specification](https://uncefact.github.io/project-crm/docs/specification/) and [Guidance for Implementers](https://uncefact.github.io/project-crm/docs/guidance/), organizations can build UNTP-CRM functionality into their existing Enterprise Resource Planning (ERP) systems, or partner with UNTP-CRM compliant traceability solutions. At this stage of the project, we are looking for early implementers to test the draft methodology, and provide feedback and input for its refinement. [Please indicate your interest in early implementation here.](https://docs.google.com/forms/d/e/1FAIpQLSecdZ4izTK-K64NA53grzmjIEJ26Y-yLjpm-2G_28ICzVk0zQ/viewform)
 
-Both goals are met through digitizing traceability and transparency **at scale**. In order to scale from pilots to global scale production volumes, this project focuses on two key challenges
+The diagram below shows how UNTP-CRM is implemented at the product-level. For example, a mine site produces a shipment of liquified copper, and issues a digital product passport (DPP) that includes various claims about the shipment, such as product origin and sustainability indicators. The mine site also issues a digital traceability event credential that is linked to the shipment DPP and attests to the stage of the supply chain, in this case, raw material extraction and primary processing. This DPP can be digitally linked to digital conformity credentials that are issued by trusted authorities about a shipment or mine site. This could be a government issued mining permit, or a performance certificate issued by an accredited assurance provider or mining industry organization.  
 
-* **Interoperability:** There are different supply chain traceability platforms on the market. Since they will not lead the world’s supply chains, end-to-end traceability will depend on standards-based interoperability **between** platforms. This project will define interoperability standards and implementation test services in which supply chain actors can pick any compliant platform. 
-* **Core Vocabulary:** There are already hundreds of ESG standards or related criteria as well as several emerging regulatory criteria specific to geographic or industrial sectors. This complexity imposes challenges for supply chain actors who must understand how their domestic sustainability measures map to the standards or regulatory criteria of their export markets. This project will focus on the **mapping** of current ESG standards by developing a core vocabulary of criteria and a legal framework for mutual recognition.
+**Insert Diagram 1** 
 
-## Greenwashing
+The diagram below provides the entire value chain perspective. Each actor along the supply chain issues a DPP for the product they produce along with an associated traceability event credential indicating the processing stage. Product DPPs are digitally linked to those of the previous stage, as well as digital conformity credentials which add credibility to the claims made about the individual product. For the downstream consumer or border authority, undertaking supply chain due diligence is like pulling on the end of a string of linked, verifiable data.
 
-Greenwashing is a term used to describe a false, misleading, or untrue action or set of claims made by an organization about the positive impact that a company, product or service has on the environment or on social welfare.
+**Insert Diagram 2** 
 
-The evidence from multiple research activities is that greenwashing is already endemic with around 60% of claims being proven to be false or misleading. But there is room for optimism because around 70% of consumers expect higher integrity behaviour and are willing to pay for it. There are two plausible pathways ahead of us.
+## What we are NOT doing:
 
-![race to the top or bottom](../files/RaceToTopBottom.png)
+* We are not creating another CRM traceability platform nor are we planning to pick any winners. We are creating a standard that CRM traceability solution providers can adopt to facilitate interoperability with other platforms.
+* We are not defining new sustainability standards or permitting processes. We aim to enable the recognition of current sustainability certifications and regulatory permits, and increase the value for miners of the permits and certifications they already hold. We aim to identify a core set of criteria which can be included by supply chain actors when making claims about their products, and enable a standard for digitally linking these claims to existing permits and sustainability certifications.
 
-To win the race to the top, fake claims need to be hard to make. The best way to achieve that is to make supply chains traceable and transparent **so that unsustainable practices have nowhere to hide**. But, to have any impact, the traceability and transparency measures must be implemented at scale. The world's supply chains must move beyond low-volume traceability pilots and "walled garden" proprietary solutions to the point where verifiable traceability and transparency information are available to motivate consumers for the majority of products on the market.  
-
-Therefore, scalability and associated evidence of high-volume production implementation is this project's key measure of success. We will be able to claim a moderate **level of success** for the pilot implementation phase if we have evidence that:
-
-* at least 50 different CRM supply chain actors
-* using at least 5 different software platforms
-* across at least 5 different value chains
-* spanning at least 5 different countries
-* can reveal transparent supply chain evidence for at least 10,000 consignments. 
-
-The best way to achieve that is to make supply chains traceable and transparent so that unsustainable practices have nowhere to hide. But, to have any impact, traceability and transparency measures must be implemented at scale. The world’s supply chains must move beyond low-volume traceability pilots and "walled garden" proprietary solutions to the point where verifiable traceability and transparency information are available to motivate consumers for most products on the market.
-
-This is still a tiny fraction of actual global trade volumes but is probably sufficient to prove that the framework is scalable. 
-
-## Participation
-
-This project will be of interest to primary producers, manufacturers, regulators, ESG standards authorities, certifiers, and ESG/traceability software solution vendors.
-
-Under the [UN/CEFACT Open Development Process (ODP)](https://unece.org/DAM/cefact/cf_plenary/2016_plenary/CF_2016_017E_ODP.pdf), participation in this project is open to all. There are three types of participation:
-
-* **Observers:** Anyone who is interested in following the activities and outcomes from this project but will not be actively contributing to the standards development work nor participating in pilot implementations. Observers may join the conversation on our Slack channel and/or subscribe to our monthly project newsletter.
-* **Contributors** Anyone who is able to provide the skills and commitment to contribute to standards development. Participants in this category should either have deep business domain knowledge in CRM supply chain sustainability or technical skills in decentralized architectures and data modelling. As a contributor, you must conform to  [UN/CEFACT IPR policy](https://unece.org/DAM/cefact/cf_plenary/plenary12/ECE_TRADE_C_CEFACT_2010_20_Rev2E_UpdatedIPRpolicy.pdf) and must [join UN/CEFACT](https://uncefact.unece.org/display/uncefactpublic/UNCEFACT+Expert+Registration) as a registered expert. Note that this will require the approval of your country's head of delegation.
-* **Implementers**: Any CRM supply chain actor (e.g. producer, manufacturer, certifier, software vendor) that wishes to participate in early pilots and/or certify their software against the standards defined by this project.
-
-Please [email the project lead](mailto:nancy.norris@gov.bc.ca) if you wish to participate as a contributor or implementer.
-
-## Reference material
-
-* [UN White paper on verifiable credentials for cross border trade](../files/WhitePaperVerifiableCredentials.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
-* [All Members Year-End CRM Project Presentation](https://drive.google.com/file/d/1vEUI12fLFdgotVWnglcSYOrWxkqamDeD/view?usp=sharing)
 
 
 
