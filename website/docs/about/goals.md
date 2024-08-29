@@ -34,3 +34,8 @@ This is still a tiny fraction of global trade volumes but is likely sufficient t
 * [UN White paper on verifiable credentials for cross border trade](https://uncefact.github.io/project-crm/assets/files/WhitePaperVerifiableCredentials-d63cc70d2a6b4cee80999b5e0b242080.pdf) - this technology is the most likely solution for highly scalable sustainability data exchange.
 * [All Members Year-End UNTP-CRM Presentation](https://drive.google.com/file/d/1vEUI12fLFdgotVWnglcSYOrWxkqamDeD/view?usp=sharing)
 
+## Work Plan and Activity Schedules​
+
+The following roadmap depicts the project’s key activities, deliverables, and timelines. 
+
+**Diagram 6**
