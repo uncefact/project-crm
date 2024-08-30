@@ -24,10 +24,7 @@ Actual benchmarks for benefits and costs by industry sector and goegraphic regio
 
 ### Business Case - Refiners
 
-
 ## Regulator Cost Benefit Model
-
-TBD - insert model diagram here
 
 ### Business Case - Resources Regulators
 
