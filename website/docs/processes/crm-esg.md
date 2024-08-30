@@ -46,7 +46,7 @@ While some minerals, like copper and molybdenum, will be used in a range of tech
 
 The demand risk matrix developed by the [World Bank Group] (https://www.worldbank.org/en/news/feature/2020/05/08/redefining-critical-minerals-essential-for-a-clean-energy-future) categorizes CRM by its demand impact on a specific technology of a low-carbon future and the need for a variety of technologies. 
 
-![Figure2](../files/Figure2.png) 
+![V2Figure2](../files/V2Figure2.png) 
 
 CRM Categories are:
 
