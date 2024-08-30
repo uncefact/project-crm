@@ -15,5 +15,5 @@ Although the supply chain structure for specific CRM commodities may vary, the f
 
 This diagram was created by CIRPASS to show the relationship between the UNTP and EU DPP efforts.
 
-**Insert Diagram 4** 
+![Diagram](../files/D4Relationships.png)
 
