@@ -21,7 +21,7 @@ The value participants can realize is dependent on both the phase of implementat
 
 The table below outlines the value an implementer will realize upon completion of each of the three different stages of implementation. These outcomes are actor agnostic and grounded in our understanding of value obtained in other global supply chain pilots. Value for CRM-specific actors may vary as we learn more about your implementation process. 
 
-**insert table 1** 
+![Table1](../files/Table1.png)
 
 ## Role-Based Value 
 
@@ -29,8 +29,8 @@ All value chain actors will have specific outcomes they hope to achieve through 
 
 The table below outlines the value of participation for UNTP-CRM implementers, including miners, smelters, processors, manufacturers, regulators, performance certifiers, and traceability software solution vendors. 
 
-**Insert table 2**
+![Table2](../files/Table2.png)
 
 ## Value for Stakeholders
 
-**Insert table 3**
+![Table3](../files/Table3.png)
