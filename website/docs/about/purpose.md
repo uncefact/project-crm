@@ -15,11 +15,11 @@ The use of advanced digital technology, called verifiable credentials, ensures t
 
 The diagram below shows how UNTP-CRM is implemented at the product-level. For example, a mine site produces a shipment of liquified copper, and issues a digital product passport (DPP) that includes various claims about the shipment, such as product origin and sustainability indicators. The mine site also issues a digital traceability event credential that is linked to the shipment DPP and attests to the stage of the supply chain, in this case, raw material extraction and primary processing. This DPP can be digitally linked to digital conformity credentials that are issued by trusted authorities about a shipment or mine site. This could be a government issued mining permit, or a performance certificate issued by an accredited assurance provider or mining industry organization.  
 
-**Insert Diagram 1** 
+![D1Purpose](../files/D1Purpose.png)
 
 The diagram below provides the entire value chain perspective. Each actor along the supply chain issues a DPP for the product they produce along with an associated traceability event credential indicating the processing stage. Product DPPs are digitally linked to those of the previous stage, as well as digital conformity credentials which add credibility to the claims made about the individual product. For the downstream consumer or border authority, undertaking supply chain due diligence is like pulling on the end of a string of linked, verifiable data.
 
-**Insert Diagram 2** 
+![D2Purpose](../files/D2Purpose.png) 
 
 ## What we are NOT doing:
 
