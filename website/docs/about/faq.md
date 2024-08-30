@@ -55,7 +55,7 @@ Building on the success of the Textile and Leather Traceability project, the pro
 
 The project has been divided into several phases of work:
 
-**insert table 4*  
+![Table4](../files/Table4.png) 
 
 ## How is the project aligning with existing initiatives?​ 
 
