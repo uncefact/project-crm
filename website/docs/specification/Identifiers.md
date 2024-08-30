@@ -13,10 +13,7 @@ Identifiers of **businesses** (eg tax registration numbers), of **locations** (e
 
 ## Facility Identifiers
 
-GLN etc
-
 ## Material Identifiers
-
 
 ## Consignment Identifiers
 
