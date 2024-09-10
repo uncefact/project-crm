@@ -7,59 +7,53 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-This section of the UNTP-CRM project website describes how interested parties can undertake a UNTP-CRM implementation. At this stage of the project, in which UNTP-CRM is still being developed, implementers will be testing draft deliverables and providing feedback to the Project Team. Testing and feedback will enable refinement of deliverables for usability and practicality, and facilitate global scalability, which are principles of the project. 
+![D4.1Timeline](../files/D4.1Timeline.png)
 
-### Design Principles 
+## Early Implementation (“crawl”)
 
-This document is guided by the following principles
-1. Simple and implementable always wins over expansive & complex.
-2. Open and free is a fundamental requirement.
-3. Collaborative development encourages buy-in
-4. Decentralised models will always be more scalable than centralized ones.
-5. Independently verifiable claims are more credible.
-6. Learn and leverage existing ecosystems, methodologies, standards and approaches.
+# **Familiarize yourself with UNTP-CRM’s core concepts**
 
-### Design Challenges
+We suggest you familiarize yourself with the core concepts listed in the [UNTP Architecture](https://uncefact.github.io/spec-untp/docs/specification/), including how they are applied in the [CRM context](https://uncefact.github.io/project-crm/docs/specification/Architecture). We also suggest you read the [Implementers section](https://uncefact.github.io/project-crm/docs/register/) of this site to understand the various roles, and consider which role your organization would play as an UNTP-CRM implementer.
 
-Implementing end-to-end supply chain traceability at scale faces a number of challenges. 
+# **Declare your interest**
 
-Challenge | Our approach 
--- | --
-A plethora of platforms exist already | We must focus on interoperability between systems, not picking winners. We’ll also provide guidance on how existing systems can extend their capability to support interoperability. 
-Technology maturity is variable | We must accommodate small businesses and developing nations and allow a gradual transition from paper processes.
-Most traceability pilots have not scaled to production volumes | We must design simple and scalable solutions that can be implemented at scale
-Supply chain actors will not expose sensitive data | We must allow stakeholders to protect sensitive commercial information whilst revealing ESG info.
-ESG claims have different levels of trust | We must provide sufficient evidence to trust the claims.
-Greenwashing fraud is endemic | We need to explicitly identify greenwashing fraud vectors and how to solve them – including product substation, mass balance, etc. In particular, in CRM, suppliers have taken the approach of inserting a middleman and obscuring the traceability to the source. A goal of this approach must be the traceability of claims back to the point of extraction, as required by the OECD due diligence handbook.
-Cost | The solution must be cheap enough that there remains a plentiful margin incentive for producers and manufacturers to change behaviour.
+State your interest in participation to the project team using [this form](https://uncefact.github.io/project-crm/docs/specification/Architecture).  We will follow up with you to assess your suitability for early implementation, and assist you to define your scope and value proposition. 
 
-## Early Implementation
+**Map and activate your community**
 
-**Familiarize yourself with UNTP-CRM’s core concepts**
+As the UNTP-CRM defines a scalable methodology for data sharing among CRM industry actors along supply chains, the value of implementation is only realized through adoption by multiple actors:
 
-We suggest you familiarize yourself with the core concepts listed in the Architecture section, including how they are applied in the CRM context. We also suggest you read the Implementers section of the website to understand the various roles, and consider which role your organization would play as an UNTP-CRM implementer.
+* For **supply chain actors**, it is beneficial to identify who you buy and sell to, and assess whether they would like to join you as an early implementer, to increase the value of your participation. See the [UNTP Community Activation page](https://uncefact.github.io/spec-untp/docs/business-case/CommunityActivationProgram) for suggested approaches. The UNTP-CRM team can assist with connecting you to other CRM industry actors who have expressed interest in early implementation and could benefit from a collaborative, multi-stakeholder pilot.
+* For **regulators**, performance certifiers, and assurance providers, can increase the value of certifications, permits, and audit reports by enabling them to be digitally linked to product-level claims. By activating the organizations you certify, regulate and audit to become UNTP-CRM implementers, you can add a new dimension of utility to your outputs.
+* For **software providers**, sharing digital credentials about the material origin and ESG data of CRM shipments is going to be powered by the digital tools. Technology platforms that are compatible with other platforms offer higher value to customers who need to exchange credentials internationally. Activating your community and customers to become UNTP-CRM compliant increases the value of the service you provide.
 
-**Declare your intent**
+You can find advice and best practices on the [UNTP community activation page](https://uncefact.github.io/spec-untp/docs/business-case/CommunityActivationProgram) to help identify and engage other actors in your ecosystem including your upstream suppliers, downstream customers, conformity assessment bodies, and traceability software vendors. As early implementers progress to full adoption, they can provide feedback to the CRM project team to develop and refine CRM-specific community activation guidance and tools.
 
-State your interest in participation to the project team using this form.  We will follow up with you to assess your suitability for early implementation. 
-
-**Map your community**
-
-As the UNTP-CRM defines a scalable methodology for data sharing among CRM industry actors along supply chains, the value of implementation is only realized through adoption by multiple actors. 
-
-* For supply chain actors, it is beneficial to identify who you buy and sell to, and assess whether they would like to join you as an early implementer, to increase the value of your participation. See the Community Activation section of the UNTP-CRM website for suggested approaches. Also, the UNTP-CRM team can assist with connecting CRM industry actors who have expressed interest in early implementation and could benefit from a collaborative, multi-stakeholder pilot.
-* For regulators, performance certifiers, and assurance providers, 
-* For software providers
-
-**Identify the sustainability information requested by your buyers and sellers** 
+# **Identify the sustainability information requested by your buyers and sellers** 
 
 For supply chain actors, such as mining companies, smelters, processors and manufacturers, we suggest you identify the sustainability information that you are being asked for by your buyers and sellers. This will inform the design of the digital product passport you will publish for shipments of your goods. 
 
 As part of the implementation testing phase, the Project Team has created this short survey (15 minutes) which will ask participants to select from a set of ESG criteria, indicating the information they are most often asked to provide to buyers and sellers. The Project Team will follow up with willing respondents for a 30-60 minute information interview. Survey and interview results will assist in the refinement of a finalized sustainability criteria list, which can be used by implementers to design their digital product passports.
 
-**Define your value proposition** 
+**Create and register your test implementation**
 
-Based on our interactions with potential early implementers, we’ve observed a typical engagement pattern, in which an interested party within an organization reaches out regarding participation as an implementer, and requires additional information about 1) resources required and 2) value of participation. Armed with this information, they can advocate for participation to other relevant decision makers within their organization, such as their sustainability, IT and supply chain leads. With this in mind, we have developed a value proposition template to assist potential implementers to articulate the benefits of participation, and resources required for their organization.  As  you develop your  value proposition, we suggest you map your community, using the recommendations above, as the value of early implementation will increase when multiple parties can share verified data interoperably. 
+* Manually create trial digital credentials and exchange with a small number of trading partners.
+* If you have an IT department, ask them to review the Technical Specification, Reference Implementation and Conformity Testing  sections of this website. They can determine whether they have the in-house capability and capacity to undertake and test a UNTP-CRM test implementation. The Project Team would be happy to meet with you and discuss.
+* Consider working with a Traceability Solution provider that is either UNTP-compliant or is working to become UNTP-compliant. The Project Team can facilitate introductions as requested. 
 
-We also recommend that you start to develop a second stage implementation plan and business case as you undertake early implementation. Based on our research into funding envelopes with matched funding, they are looking for consortiums that are post-pilot, implementation ready. Consider activating your community/ supply chain as you undertake early implementation to realize full value and prepare for external funding applications. 
+**Create business case to proceed to Alpha phase**
 
+## Second Stage Implementation (“walk”)
+
+* Undertake Community Activation Plan and Designate Community Leader.
+* Validate integration cost & complexity.
+* Validate of scope and value.
+* Automate creation and verification of digital credentials from your own business systems (in test environments).
+* Engage with activated community to Achieve consistency in implementation across a commodity and/or geographic sector.
+* Get ready to scale.
+* Create business case to advance to Beta phase.
+
+## Third Stage Implementation
+
+* Manage expansion to full scale implementation for all products, facilities, and partners.
+* Develop a roadmap for long term adoption, that includes ongoing value assessment
