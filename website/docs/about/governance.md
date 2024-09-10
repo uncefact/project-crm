@@ -11,7 +11,7 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 The standard being developed through this project is an extension of the [United Nations Transparency Protocol](https://uncefact.github.io/spec-untp/docs/about) (UNTP). UNTP-CRM adapts UNTP to meet the specific needs of the CRM industry using the [UNTP Extension Methodology](https://uncefact.github.io/spec-untp/docs/extensions/ExtensionsMethodology). To the greatest extent possible, we use the core UNTP methodology and architecture to ensure consistency, and cross-industry interoperability.  
 
-**Diagram 7** 
+![D7UNTP](../files/D7UNTP.png)
 
 ## Phase 1: Development 
 
@@ -74,7 +74,7 @@ As of July 2024, the Traceability Interoperability and CRM Sustainability Criter
 
 This phase of the project will deliver a suite of materials that support government policymakers, CRM industry actors, and traceability technology providers. The blue-coloured deliverables are expected to be re-usable across other supply chain domains such as garments & footwear and agri-food. The yellow-coloured deliverables are specific to the critical raw materials domain.
 
-**Diagram 8**
+![D8Deliverables](../files/D8Deliverables.png)
 
 ## Criteria for assessing deliverables
 
