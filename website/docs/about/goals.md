@@ -13,7 +13,7 @@ Greenwashing is a term used to describe a false, misleading, or untrue action or
 
 The evidence from multiple research activities is that greenwashing is already endemic with around 60% of claims proven to be false or misleading. There is, however, room for optimism because around 70% of consumers expect higher integrity behaviour and are willing to pay for it. There are two plausible pathways ahead of us.
 
-**Insert Diagram 5** 
+![D5Greenwashing](../files/D5Greenwashing.png) 
 
 To win the race to the top, fake claims need to be hard to make. The best way to achieve this is to make supply chains traceable and transparent so that unsustainable practices have nowhere to hide. But, to have any impact, the traceability and transparency measures must be implemented at scale. The world's supply chains must move beyond low-volume traceability pilots and "walled garden" proprietary solutions to the point where verifiable traceability and transparency information are available to motivate consumers for the majority of products on the market.
 
@@ -38,4 +38,4 @@ This is still a tiny fraction of global trade volumes but is likely sufficient t
 
 The following roadmap depicts the project’s key activities, deliverables, and timelines. 
 
-**Diagram 6**
+![D6Roadmap](../files/D6Roadmap.png)
