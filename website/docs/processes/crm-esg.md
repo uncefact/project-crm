@@ -48,7 +48,7 @@ The demand risk matrix developed by the [World Bank Group] (https://www.worldban
 
 ![V2Figure2](../files/V2Figure2.png) 
 
-CRM Categories are:
+### CRM Categories are:
 
 * **High-impact and Cross-Cutting CRM (Category 3 in Figure above)** are used in a wide range of technologies and required to meet projected demand in a low-carbon world. **One example is aluminium:** It is used widely for both energy generation and storage technologies, with roughly 103 million tons of aluminium needed to supply 87% of solar PV and a range of other clean energy technologies to achieve a below 2°C future.
 * **Cross-Cutting CRM (Category 4)** is essential across a wide variety of technologies. **One example is copper:** it is used across all 10 energy technologies – so regardless of the low-carbon “pathway”, it is likely to be relevant in 2050. It also means that the clean energy transition will depend very much on the availability of copper itself.
