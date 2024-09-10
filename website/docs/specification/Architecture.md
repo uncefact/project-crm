@@ -7,11 +7,9 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-## Overview
+The architecture is the blueprint for all the components of the specification and how they work together. It defines the design principles and challenges which underpin the  UNTP-CRM and shows the components working together from the perspective of a single actor and across the entire value chain. The UNTP-CRM is a fundamentally decentralized architecture with no central store of data. 
 
-The architecture is the blueprint for all the components of the specification and how they work together. It defines the **design principles** which underpin the AATP and shows the components working together from the perspective of a **single actor** and across the **entire value-chain**. The AATP is a fundamentally **decentralised architecture** with no central store of data.
-
-## Principles
+## Design Principles
 
 1. In alignment with the UNTP extension methodology, UNTP-CRM aligns as closely as possible to UNTP and clearly identifies and explains any adaptations required for use by the CRM industry.
 2. Simple and implementable always wins over expansive & complex.
@@ -21,7 +19,7 @@ The architecture is the blueprint for all the components of the specification an
 6. Independently verifiable claims are more credible.
 7. Learn and leverage existing ecosystems, methodologies, standards and approaches.
 
-# Design Challenges​
+### Design Challenges​
 
 Implementing end-to-end supply chain traceability at scale faces a number of challenges.
 
