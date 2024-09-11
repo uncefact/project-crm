@@ -39,7 +39,7 @@ You can find advice and best practices on the [UNTP community activation page](h
 
 For supply chain actors, such as mining companies, smelters, processors and manufacturers, we suggest you identify the sustainability information that you are being asked for by your buyers and sellers. This will inform the design of the digital product passport you will publish for shipments of your goods. 
 
-As part of the implementation testing phase, the Project Team has created this short survey (15 minutes) which will ask participants to select from a set of ESG criteria, indicating the information they are most often asked to provide to buyers and sellers. The Project Team will follow up with willing respondents for a 30-60 minute information interview. Survey and interview results will assist in the refinement of a finalized sustainability criteria list, which can be used by implementers to design their digital product passports.
+As part of the implementation testing phase, the Project Team has created [this short survey](https://docs.google.com/forms/d/1E1-kRuP3FDkxhamXbTRixhWA5xifyvqKxkzgSaYOjhE/prefill) (15 minutes) which will ask participants to select from a set of ESG criteria, indicating the information they are most often asked to provide to buyers and sellers. The Project Team will follow up with willing respondents for a 30-60 minute information interview. Survey and interview results will assist in the refinement of a finalized sustainability criteria list, which can be used by implementers to design their digital product passports.
 
 ### **Create and Register Your Test Implementation**
 
