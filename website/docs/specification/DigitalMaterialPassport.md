@@ -62,8 +62,6 @@ What are the data points needed for a shipment of copper concentrate?
 
 ## Product Passport (battery and automotive)
 
-We are creating a UNTP mapping of the GBA battery passport.
-
 ## Versions
 
 | Type | Version | Date | status | JSON-LD Context | JSON Schema | Sample |
