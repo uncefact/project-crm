@@ -57,7 +57,7 @@ As part of the implementation testing phase, the Project Team has created [this 
 * Validate integration cost & complexity.
 * Validate of scope and value.
 * Automate the creation and verification of digital credentials from your own business systems (in test environments).
-* Engage with the activated community to Achieve consistency in implementation across a commodity and/or geographic sector.
+* Engage with the activated community to achieve consistency in implementation across a commodity and/or geographic sector.
 * Get ready to scale.
 * Create a business case to advance to Beta phase.
 
