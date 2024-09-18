@@ -7,37 +7,4 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-
-## The Community Activation Flywheel
-
-
-### Government
-
-
-### Financial Institutions
-
-
-### Trust Marks
-
-
-### Industry Associations
-
-
-### Supply Chain Actors
-
-
-### IT Solution Providers
-
-
-## Implementation Program Model
-
-### Discovery Phase (Crawl)
-
-### Alpha Phase (Walk)
-
-### Beta Phase (Run)
-
-## The Community Level Business Case
-
-### Business Case Template
-
+As you develop your value proposition, we suggest you map and activate your community, as the value of implementation will increase when multiple parties can share verified data interoperably. You can find advice and best practices on the [UNTP community activation page](https://uncefact.github.io/spec-untp/docs/business-case/CommunityActivationProgram). As early implementers progress to adoption, they can provide feedback to the CRM project team to develop and refine CRM-specific community activation guidance and tools. 
