@@ -76,7 +76,7 @@ const config = {
           {to: '/docs/processes', label: 'About CRMs', position: 'right'},
           {to: '/docs/specification', label: 'The specification', position: 'right'},
           {to: '/docs/guidance', label: 'Implementation guidance', position: 'right'},
-          {to: '/docs/resources', label: 'Resources & Teamplates', position: 'right'},
+          {to: '/docs/resources', label: 'Resources & Templates', position: 'right'},
           {to: '/docs/register', label: 'Implementers', position: 'right'},
           {
             href: 'https://uncefact.slack.com/archives/C05AV647QKC',
