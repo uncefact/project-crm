@@ -57,7 +57,7 @@ The project has been divided into several phases of work:
 
 ![Table4](../files/Table4.png) 
 
-## How is the project aligning with existing initiatives?​ 
+## How does the project align with existing initiatives?​ 
 
 The project embraces all environmental, social, and governance (ESG) platforms, standards, and regulations. Our environmental scan illustrates the broad range of platforms, standards, and regulations that inform the project work.
 
