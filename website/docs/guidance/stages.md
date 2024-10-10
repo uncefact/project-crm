@@ -17,7 +17,7 @@ We suggest you familiarize yourself with the core concepts listed in the [UNTP A
 
 ### **Declare your Interest**
 
-State your interest in participation to the project team using [this form].  We will follow up with you to assess your suitability for early implementation, and assist you to define your scope and value proposition. 
+State your interest in participation to the project team using [this form](https://uncefact.github.io/project-crm/docs/about/).  We will follow up with you to assess your suitability for early implementation, and assist you to define your scope and value proposition. 
 
 ### **Define Your Scope and Value Proposition**
 
