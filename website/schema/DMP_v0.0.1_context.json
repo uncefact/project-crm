@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@protected": true,
+    "DigitalMiningPermitCredential": "https://uncefact.github.io/project-crm/docs/specification/ConformityCredential#mining-permit",
+    "MiningPermit": {
+      "@id": "https://schema.org/GovernmentPermit",
+      "@context": {
+        "@protected": true,
+        "permitNumber": "https://schema.org/identifier"
+      }
+    },
+    "Regulator": "https://schema.org/GovernmentOrganization",
+    "RawMaterial": {
+      "@id": "https://uncefact.github.io/project-crm/docs/processes/crm-processes#output-product",
+      "@context": {
+        "@protected": true,
+        "commodity": "https://schema.org/material"
+      }
+    },
+    "MineSite": {
+      "@id": "https://uncefact.github.io/project-crm/docs/specification/DigitalFacilityRecord#mine-site",
+      "@context": {
+        "@protected": true
+      }
+    }
+  }
+}

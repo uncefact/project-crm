@@ -1,0 +1,373 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "@context": {
+      "const": [
+        "https://www.w3.org/ns/credentials/v2",
+        "https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/",
+        "https://publisher.orgbook.gov.bc.ca/contexts/BCMinesActPermitCredential/1.0"
+      ]
+    },
+    "type": {
+      "const": [
+        "VerifiableCredential",
+        "DigitalConformityCredential",
+        "BCMinesActPermitCredential"
+      ]
+    },
+    "id": {
+      "type": "string",
+      "format": "uri"
+    },
+    "name": {
+      "type": "string"
+    },
+    "credentialSubject": {
+      "$ref": "#/$defs/MiningPermit",
+      "required": [
+        "type"
+      ]
+    },
+    "issuer": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name"
+      ]
+    }
+  },
+  "required": [
+    "@context",
+    "type",
+    "issuer",
+    "credentialSubject"
+  ],
+  "$defs": {
+    "MiningPermit": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": [
+            "ConformityAttestation",
+            "MinesActPermit"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "issuedToParty": {
+          "$ref": "#/$defs/Party"
+        },
+        "assessorLevel": {
+          "type": "string"
+        },
+        "assessmentLevel": {
+          "type": "string"
+        },
+        "attestationType": {
+          "type": "string"
+        },
+        "scope": {
+          "$ref": "#/$defs/ConformityAssessmentScheme"
+        },
+        "assessment": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ConformityAssessment"
+          }
+        }
+      },
+      "required": []
+    },
+    "Party": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": [
+            "Party"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "registeredId": {
+          "type": "string"
+        },
+        "idScheme": {
+          "$ref": "#/$defs/IdentifierScheme"
+        }
+      },
+      "required": [
+        "id",
+        "name"
+      ]
+    },
+    "ConformityAssessmentScheme": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "ConformityAssessmentScheme"
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "issuingParty": {
+          "$ref": "#/$defs/Party"
+        },
+        "issueDate": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "ConformityAssessment": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "type": "array",
+          "const": [
+            "ConformityAssessment"
+          ]
+        },
+        "assessmentDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "referenceRegulation": {
+          "$ref": "#/$defs/Regulation"
+        },
+        "conformityTopic": {
+          "type": "string"
+        },
+        "assessedProduct": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Product"
+          }
+        },
+        "assessedFacility": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Facility"
+          }
+        },
+        "assessedOrganisation": {
+          "$ref": "#/$defs/Party"
+        },
+        "auditor": {
+          "$ref": "#/$defs/Party"
+        }
+      },
+      "required": [
+        "conformityTopic"
+      ]
+    },
+    "Regulation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "const": [
+            "Regulation"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "jurisdictionCountry": {
+          "type": "string",
+          "x-external-enumeration": "https://vocabulary.uncefact.org/CountryId"
+        },
+        "administeredBy": {
+          "$ref": "#/$defs/Party"
+        },
+        "effectiveDate": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "administeredBy"
+      ]
+    },
+    "Product": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "Product"
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "registeredId": {
+          "type": "string"
+        },
+        "idScheme": {
+          "$ref": "#/$defs/IdentifierScheme"
+        },
+        "serialNumber": {
+          "type": "string"
+        },
+        "batchNumber": {
+          "type": "string"
+        },
+        "IDverifiedByCAB": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "Facility": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": "Facility"
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "registeredId": {
+          "type": "string"
+        },
+        "idScheme": {
+          "$ref": "#/$defs/IdentifierScheme"
+        },
+        "locationInformation": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/Location"
+            },
+            {
+              "type": "string",
+              "format": "uri"
+            }
+          ]
+        },
+        "address": {
+          "$ref": "#/$defs/Address"
+        },
+        "IDverifiedByCAB": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "Location": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "const": [
+            "Location"
+          ]
+        },
+        "plusCode": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "Address": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "const": [
+            "Address"
+          ]
+        },
+        "streetAddress": {
+          "type": "string"
+        },
+        "postalCode": {
+          "type": "string"
+        },
+        "addressLocality": {
+          "type": "string"
+        },
+        "addressRegion": {
+          "type": "string"
+        },
+        "addressCountry": {
+          "type": "string",
+          "x-external-enumeration": "https://vocabulary.uncefact.org/CountryId"
+        }
+      }
+    },
+    "IdentifierScheme": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "const": [
+            "IdentifierScheme"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
