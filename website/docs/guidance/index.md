@@ -1,6 +1,6 @@
 ---
-sidebar_position: 20
-title: Guidance for Implementers
+sidebar_position: 15
+title: Guidance
 ---
 
 import Disclaimer from '../\_disclaimer.mdx';
